@@ -26,7 +26,26 @@
         "anthropic/claude-opus-4-6": {}
       },
       "workspace": "/data/.openclaw/workspace"
-    }
+    },
+    "list": [
+      {
+        "id": "main",
+        "default": true,
+        "name": "Main Agent",
+        "workspace": "/data/.openclaw/workspace",
+        "agentDir": "/data/.openclaw/agents/main/agent",
+        "model": {
+          "primary": "anthropic/claude-opus-4-6"
+        }
+      },
+      {
+        "id": "fin",
+        "name": "Fin",
+        "default": false,
+        "workspace": "/data/.openclaw/workspace-fin",
+        "agentDir": "/data/.openclaw/agents/fin/agent"
+      }
+    ]
   },
   "tools": {
     "profile": "full"
@@ -64,6 +83,16 @@
       "botToken": "${TELEGRAM_BOT_TOKEN}",
       "dmPolicy": "pairing",
       "groupPolicy": "allowlist"
+    },
+    "slack": {
+      "enabled": true,
+      "mode": "socket",
+      "appToken": "${SLACK_APP_TOKEN}",
+      "botToken": "${SLACK_BOT_TOKEN}",
+      "userToken": "${SLACK_USER_TOKEN}",
+      "userTokenReadOnly": true,
+      "dmPolicy": "disabled",
+      "groupPolicy": "disabled"
     }
   },
   "plugins": {
