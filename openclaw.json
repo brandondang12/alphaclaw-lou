@@ -92,7 +92,12 @@
       "userToken": "${SLACK_USER_TOKEN}",
       "userTokenReadOnly": true,
       "dmPolicy": "disabled",
-      "groupPolicy": "disabled"
+      "groupPolicy": "allowlist",
+      "channels": {
+        "C0ANYSYGTDW": {
+          "requireMention": false
+        }
+      }
     }
   },
   "plugins": {
