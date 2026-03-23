@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastTouchedVersion": "2026.3.13",
-    "lastTouchedAt": "2026-03-15T23:26:19.923Z"
+    "lastTouchedAt": "2026-03-22T21:29:39.235Z"
   },
   "wizard": {
     "lastRunAt": "2026-03-15T23:26:17.468Z",
@@ -40,8 +40,8 @@
       },
       {
         "id": "fin",
-        "name": "Fin",
         "default": false,
+        "name": "Fin",
         "workspace": "/data/.openclaw/workspace-fin",
         "agentDir": "/data/.openclaw/agents/fin/agent"
       }
@@ -58,6 +58,52 @@
   },
   "session": {
     "dmScope": "per-channel-peer"
+  },
+  "hooks": {
+    "internal": {
+      "enabled": true,
+      "entries": {
+        "bootstrap-extra-files": {
+          "enabled": true,
+          "paths": [
+            "hooks/bootstrap/AGENTS.md",
+            "hooks/bootstrap/TOOLS.md"
+          ]
+        }
+      }
+    }
+  },
+  "channels": {
+    "modelByChannel": {
+      "slack": {
+        "C0ANYSYGTDW": "anthropic/claude-sonnet-4-20250514"
+      }
+    },
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing",
+      "botToken": "${TELEGRAM_BOT_TOKEN}",
+      "groupPolicy": "allowlist",
+      "streaming": "partial"
+    },
+    "slack": {
+      "mode": "socket",
+      "webhookPath": "/slack/events",
+      "enabled": true,
+      "botToken": "${SLACK_BOT_TOKEN}",
+      "appToken": "${SLACK_APP_TOKEN}",
+      "userToken": "${SLACK_USER_TOKEN}",
+      "userTokenReadOnly": true,
+      "groupPolicy": "allowlist",
+      "dmPolicy": "disabled",
+      "channels": {
+        "C0ANYSYGTDW": {
+          "requireMention": false
+        }
+      },
+      "nativeStreaming": true,
+      "streaming": "partial"
+    }
   },
   "gateway": {
     "port": 18789,
@@ -77,33 +123,11 @@
       "nodeManager": "npm"
     }
   },
-  "channels": {
-    "telegram": {
-      "enabled": true,
-      "botToken": "${TELEGRAM_BOT_TOKEN}",
-      "dmPolicy": "pairing",
-      "groupPolicy": "allowlist"
-    },
-    "slack": {
-      "enabled": true,
-      "mode": "socket",
-      "appToken": "${SLACK_APP_TOKEN}",
-      "botToken": "${SLACK_BOT_TOKEN}",
-      "userToken": "${SLACK_USER_TOKEN}",
-      "userTokenReadOnly": true,
-      "dmPolicy": "disabled",
-      "groupPolicy": "allowlist",
-      "channels": {
-        "C0ANYSYGTDW": {
-          "requireMention": false
-        }
-      }
-    }
-  },
   "plugins": {
     "allow": [
       "telegram",
-      "usage-tracker"
+      "usage-tracker",
+      "slack"
     ],
     "load": {
       "paths": [
@@ -117,20 +141,6 @@
       "usage-tracker": {
         "enabled": true
       }
-    }
-  },
-  "hooks": {
-    "internal": {
-      "entries": {
-        "bootstrap-extra-files": {
-          "enabled": true,
-          "paths": [
-            "hooks/bootstrap/AGENTS.md",
-            "hooks/bootstrap/TOOLS.md"
-          ]
-        }
-      },
-      "enabled": true
     }
   }
 }
