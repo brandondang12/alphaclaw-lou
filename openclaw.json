@@ -11,10 +11,6 @@
   },
   "auth": {
     "profiles": {
-      "anthropic:default": {
-        "provider": "anthropic",
-        "mode": "api_key"
-      },
       "anthropic:manual": {
         "provider": "anthropic",
         "mode": "token"
@@ -120,6 +116,14 @@
     "tailscale": {
       "mode": "off",
       "resetOnExit": false
+    },
+    "trustedProxies": [
+      "127.0.0.1"
+    ],
+    "controlUi": {
+      "allowedOrigins": [
+        "https://openclaw-railway-template-production-e133.up.railway.app"
+      ]
     }
   },
   "skills": {
