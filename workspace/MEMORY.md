@@ -7,7 +7,8 @@
 ## Setup
 - **Slack** connected (2026-03-17): read-only via user token, Socket Mode, DMs & channels disabled
   - Workspace: rosebudjournal.slack.com
-- **Notion**: Brandon asked about read access (2026-03-17), gave him setup instructions for internal integration. Token not yet provided.
+- **Notion** connected (2026-03-23): internal integration token provided, 0 pages shared so far — waiting for Brandon to connect pages
+- **stop-slop** skill installed (2026-03-23): anti-AI-slop writing rules from hardikpandya/stop-slop
 
 ## Rosebud Team
 - Chrys Bader (U02RW0YA4NA) — proposed Practitioner Interview Sprint
