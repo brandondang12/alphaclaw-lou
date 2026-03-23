@@ -98,7 +98,7 @@
       "dmPolicy": "disabled",
       "channels": {
         "C0ANYSYGTDW": {
-          "requireMention": false
+          "requireMention": true
         }
       },
       "nativeStreaming": true,
