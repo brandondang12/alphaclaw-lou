@@ -20,6 +20,9 @@
 ## Knowledge Base
 - **memory/rosebud-research.md** — full synthesis of Rosebud user research (segments, clusters, JTBD, churn drivers, activation triggers, competitive landscape, First Day + Comparative Analysis findings)
 
+## Preferences
+- **Slack content analysis**: keep concise, avoid walls of text. DO reference specific quotes from the piece. Short takeaways > long summaries.
+
 ## Recent Work
 - Summarized #wg-user-study (2026-03-17): therapist interview sprint, ad segmentation, journal import switching offer idea
 - Read full "Who to Serve" doc + linked Notion research (2026-03-23): First Day Analysis, Comparative Analysis, Churn Analysis, Intention Analysis, Life Triggers, LTV MVP, Segment Selection & TAM Research
