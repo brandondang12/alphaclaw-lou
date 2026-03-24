@@ -1,4 +1,30 @@
 {
   "version": 1,
-  "jobs": []
+  "jobs": [
+    {
+      "id": "83571ea8-945d-4586-98d5-5f87ee788b28",
+      "name": "call-nick",
+      "enabled": true,
+      "deleteAfterRun": true,
+      "createdAtMs": 1774385035161,
+      "updatedAtMs": 1774385035161,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-03-25T20:00:00.000Z"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Remind Brandon to call Nick"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram"
+      },
+      "state": {
+        "nextRunAtMs": 1774468800000
+      }
+    }
+  ]
 }

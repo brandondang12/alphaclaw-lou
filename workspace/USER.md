@@ -5,7 +5,7 @@ _Learn about the person you're helping. Update this as you go._
 - **Name:** Brandon Dang
 - **What to call them:** Brandon
 - **Pronouns:** 
-- **Timezone:** (TBD — messages seen late evening UTC / weekends)
+- **Timezone:** America/Los_Angeles (Pacific Time — Venice, CA)
 - **Telegram:** @bdang12
 - **Slack ID:** U0A4DCQM4Q4
 
