@@ -136,6 +136,67 @@ People who can feel pain and narrate it at the same time:
 | BetterHelp | $280-400 | Online Therapy |
 | ChatGPT Plus | $20 | Main competitive threat, beatable |
 
+## Q1 Results (from Q2 Kick-off, 2026-03-26)
+- LTV CAC moved from 0.5:1 to above 1:1 (target for year: 2:1)
+- COGS reduced 25% (target was 50%) — prompt caching cut AI costs 41%, Pinecone namespace migration saved $6K/mo
+- Ad spend cut from $200K/mo to $50K/mo with minimal impact on subscriber numbers (growth is inelastic to paid spend)
+- Month 1 ROAS went from ~0.5 to 1.22 (above the 1.1 target)
+- LTV stayed flat at ~$38-39
+- Month 1 churn still at 35% (wasn't a Q1 focus)
+- Current new subs: ~2,150/mo
+
+## Q2 OKRs (2026-03-26 Kick-off)
+**OKR 1: Scale Revenue Profitably**
+- Grow to 2,800+ new subs/mo at $40 CAC (base case at $110K/mo spend)
+- Run 3+ experiments on pull marketing channels (non-paid)
+- Expand ARPU by 10-15% via Thrive tier (without breaking trust)
+- Daedalus (Arjun's creative engine) driving consistent creative testing
+
+**OKR 2: Validate Therapist Flywheel**
+- Interview 15-20 therapists
+- Identify ICP for practitioners
+- Ship at least 1 therapy integration feature
+- Scott example: 1 therapist discovered Rosebud through client, now all 20+ clients use it
+- 7,000-8,000 therapists in Klaviyo email list = latent asset
+
+**OKR 3: Deepen Continuity & Attunement for Therapy-Fluent Users**
+- Reduce month 1 churn from 35% to 28%
+- Improve first-week activation (metric TBD)
+- Reduce memory/response-related churn signals
+- Agentic Rosebud MVP exists but needs iteration
+- Key insight: memory isn't "remember me" — it's "learn from me"
+
+## Key Q2 Themes
+- Values-based marketing: provide value without asking for return
+- Pull marketing experiments (content, partnerships, organic)
+- Therapist content opportunities: telling practitioner stories (e.g., Scott)
+- Research team / beta program: invite ICP users to test new features
+- Coaching vs therapy distinction still TBD for positioning
+- 83% of new subscribers are or were in therapy (from new onboarding question)
+
+## Who to Serve Wrapped (2026-03-24) — Additional Insights
+- 11,000 users analyzed (Aug-Oct cohort) → 442 (4%) remain core subscribers
+- 15% of trialists "came in hot" (7/7 trial days, 2,000+ words) — convert + retain at much higher rates
+- But 35% of hot trialists still churned within 4 months — behavior alone doesn't predict retention
+- 90% of hot trialists arrive with something weighing on them — but the crisis has almost no correlation with whether someone stays
+- How someone engages predicts LTV 7-8x better than why they showed up
+- "Rosebud Fit" = Motivation × Readiness
+- Relief motivation: high spike, fades as crisis passes
+- Growth motivation: builds and compounds over time (mastery loop)
+- Readiness = metacognition + self-honesty + agency (maps to "psychological flexibility" in clinical psych)
+- Users who score high across all 6 ICP traits churn at 39% vs 57% and pay ~30% more
+- More roles the user uses Rosebud in (ally + mirror + coach), the more likely to retain
+- AI as partner = 2nd strongest predictor of trial activation
+
+## Team Members (expanded from meetings)
+- Michael Pradetto — product/engineering, Thrive pricing work
+- Diego Nava — engineering, pricing tiers and limits
+- Martijn Buurman — engineering, prompt caching, cost optimization, agentic Rosebud
+- Ella Miranda — support, coordination, user interviews
+- Myla Fernandez — support, user interviews, pre-screening
+- Alice Kuo — research, behavioral analysis, segmentation
+- Arjun Shukla — growth/data, Daedalus creative engine, Archimedes BigQuery bot
+
 ## What It Takes to Win
 1. Own the between-session gap (the other 167 hours)
 2. Make Rosebud trainable with unbeatable memory
