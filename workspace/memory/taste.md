@@ -23,7 +23,8 @@ Last updated: 2026-03-27
   - "All Grown Up" reframe is clever — uses childhood self as a mirror for self-honesty without directly asking "what are you ashamed of?"
   - 6th slide (CHECK IN) ties it back to the Eileen Gu hook and asks: "When something goes wrong, what is your automatic explanation?" / "What recurring thought did you have 3+ times today?" / "Take one of your negative recurring thoughts and rewrite it to an upgraded pathway you want to practice instead"
   - The CHECK IN slide is pure metacognitive scaffolding — it's literally training observer-self capacity in 3 steps (notice the pattern → count frequency → rewrite)
-- **Tags:** journaling prompts, carousel format, neuroplasticity hook, therapeutic frameworks, vulnerability progression, growth-oriented
+- **Why it resonated (Brandon):** Went viral on Substack — ton of engagement. Three signals: (1) Substack audience is ripe for journaling/self-development content, (2) "neuroplasticity" framing resonates strongly right now as language, (3) anchoring to a current cultural moment (Eileen Gu interview) gives it shareability
+- **Tags:** journaling prompts, carousel format, neuroplasticity hook, therapeutic frameworks, vulnerability progression, growth-oriented, zeitgeist anchor, Substack distribution
 
 ## What We Don't Like
 
