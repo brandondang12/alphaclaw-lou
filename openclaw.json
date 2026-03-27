@@ -102,6 +102,7 @@
           "systemPrompt": "IMPORTANT: Only respond if the user explicitly @mentioned you with @Eddy in their message. If a message is just a thread reply without @Eddy, respond with NO_REPLY."
         }
       },
+      "replyToMode": "all",
       "nativeStreaming": false,
       "streaming": "off"
     }
