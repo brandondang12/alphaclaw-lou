@@ -35,7 +35,7 @@
         "workspace": "/data/.openclaw/workspace",
         "agentDir": "/data/.openclaw/agents/main/agent",
         "model": {
-          "primary": "anthropic/claude-opus-4-6"
+          "primary": "anthropic/claude-sonnet-4-6"
         }
       },
       {

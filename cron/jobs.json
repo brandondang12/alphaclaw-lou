@@ -4,10 +4,10 @@
     {
       "id": "83571ea8-945d-4586-98d5-5f87ee788b28",
       "name": "call-nick",
-      "enabled": true,
+      "enabled": false,
       "deleteAfterRun": true,
       "createdAtMs": 1774385035161,
-      "updatedAtMs": 1774385035161,
+      "updatedAtMs": 1774468806275,
       "schedule": {
         "kind": "at",
         "at": "2026-03-25T20:00:00.000Z"
@@ -23,7 +23,13 @@
         "channel": "telegram"
       },
       "state": {
-        "nextRunAtMs": 1774468800000
+        "lastRunAtMs": 1774468800007,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 6268,
+        "lastError": "Delivering to Telegram requires target <chatId>",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1
       }
     }
   ]

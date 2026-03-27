@@ -20,6 +20,9 @@
 ## Knowledge Base
 - **memory/rosebud-research.md** — full synthesis of Rosebud user research (segments, clusters, JTBD, churn drivers, activation triggers, competitive landscape, First Day + Comparative Analysis findings)
 
+## Integrations
+- **Fathom** connected (2026-03-27): API key for meeting transcripts, summaries, action items
+
 ## Preferences
 - **Slack content analysis**: keep concise, avoid walls of text. DO reference specific quotes from the piece. Short takeaways > long summaries.
 
