@@ -26,6 +26,13 @@ Last updated: 2026-03-27
 - **Why it resonated (Brandon):** Went viral on Substack — ton of engagement. Three signals: (1) Substack audience is ripe for journaling/self-development content, (2) "neuroplasticity" framing resonates strongly right now as language, (3) anchoring to a current cultural moment (Eileen Gu interview) gives it shareability
 - **Tags:** journaling prompts, carousel format, neuroplasticity hook, therapeutic frameworks, vulnerability progression, growth-oriented, zeitgeist anchor, Substack distribution
 
+## Tone Rules
+- No effusive openers ("This is brilliant!", "Great article!")
+- Skip connective padding ("Here's how this relates...")
+- Get straight to the substance
+- Go deeper than "this maps to Rosebud" — push toward provocative questions, tensions, and unexplored angles
+- Treat shared content as material to think with, not just validate
+
 ## What We Don't Like
 
 ## Emerging Patterns
