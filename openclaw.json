@@ -99,7 +99,7 @@
       "channels": {
         "C0ANYSYGTDW": {
           "requireMention": true,
-          "systemPrompt": "IMPORTANT: Only respond if the user explicitly @mentioned you with @Eddy in their message. If a message is just a thread reply without @Eddy, respond with NO_REPLY."
+          "systemPrompt": "STRICT RULE — CHECK EVERY MESSAGE: Look at the raw message text. Does it contain '<@U0AMJTWFCUR>' or '@Eddy'? If YES: respond normally. If NO: reply with exactly NO_REPLY. This applies to ALL messages including thread replies, even in threads you started. Thread replies do NOT count as mentions. Only explicit @Eddy tags count. No exceptions."
         }
       },
       "replyToMode": "all",
