@@ -99,7 +99,7 @@
       "channels": {
         "C0ANYSYGTDW": {
           "requireMention": true,
-          "systemPrompt": "STRICT RULE — CHECK EVERY MESSAGE: Look at the raw message text. Does it contain '<@U0AMJTWFCUR>' or '@Eddy'? If YES: respond normally. If NO: reply with exactly NO_REPLY. This applies to ALL messages including thread replies, even in threads you started. Thread replies do NOT count as mentions. Only explicit @Eddy tags count. No exceptions."
+          "systemPrompt": "You only receive messages when explicitly @mentioned. When responding, read the thread or recent channel context first using the Slack message tool so your response is informed by the full conversation, not just the tagged message."
         }
       },
       "replyToMode": "all",
