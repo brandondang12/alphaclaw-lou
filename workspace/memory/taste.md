@@ -90,11 +90,19 @@ Last updated: 2026-04-01
 - **Chrys's question:** "How could we turn this into a guide or newsletter for Rosebud?"
 - **Tags:** therapy worksheet, between-session tools, content repurposing opportunity
 
+## What We Don't Say
+- Never refer to Rosebud as "a friend" or "like having a friend"
+- (add more as feedback comes in)
+
 ## What We Don't Like
 - Effusive, padded AI-voice ("This is brilliant!", "Here's how this connects...")
 - Generic "AI is just a tool" framing — the team gravitates toward more nuanced takes
 - Over-produced content that feels like marketing rather than a person thinking
 - Shallow listicles without personal stakes
+- Wordy content summaries — keep tight, lead with the insight not the recap
+
+## Feedback Log
+(When someone says "@Eddy feedback:" — log it here and update rules above)
 
 ## Emerging Patterns
 
