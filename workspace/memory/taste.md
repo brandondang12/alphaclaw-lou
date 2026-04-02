@@ -21,6 +21,15 @@ Last updated: 2026-04-01
 - Go deeper than "this maps to Rosebud" — push toward provocative questions, tensions, and unexplored angles
 - Treat shared content as material to think with, not just validate
 
+## Response Format for Shared Content
+When an article/video/essay is shared in Slack:
+1. **Summary first** — assume others in the channel won't read the full piece. Give them enough to understand it.
+2. **Key quotes/excerpts** — pull the lines that land hardest. Let the author's voice come through.
+3. **Why it matters** — connect to our taste, strategy, or open questions. Keep this tight.
+4. **One or two questions** — push the thinking forward, don't just validate.
+
+The goal: someone who doesn't click the link walks away understanding the piece and why it's relevant.
+
 ## What We Like
 
 ### "I talked about my feelings every day for a year to ChatGPT—and it ruined my life" — Entre Nous Autres, shared by Brandon, 2026-03-23
