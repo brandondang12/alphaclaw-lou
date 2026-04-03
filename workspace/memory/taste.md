@@ -23,12 +23,15 @@ Last updated: 2026-04-01
 
 ## Response Format for Shared Content
 When an article/video/essay is shared in Slack:
-1. **Summary first** — assume others in the channel won't read the full piece. Give them enough to understand it.
+1. **Summary first** — assume others in the channel won't read the full piece. Give them enough to understand it. Don't go light on the key points.
 2. **Key quotes/excerpts** — pull the lines that land hardest. Let the author's voice come through.
 3. **Why it matters** — connect to our taste, strategy, or open questions. Keep this tight.
 4. **One or two questions** — push the thinking forward, don't just validate.
 
-The goal: someone who doesn't click the link walks away understanding the piece and why it's relevant.
+**Delivery rules:**
+- Never narrate your research process with multiple messages ("Let me read this", "Now checking that")
+- Get right into the summary + insights in a single response
+- The goal: someone who doesn't click the link walks away understanding the piece and why it's relevant.
 
 ## What We Like
 
@@ -112,6 +115,10 @@ The goal: someone who doesn't click the link walks away understanding the piece 
 
 ## Feedback Log
 (When someone says "@Eddy feedback:" — log it here and update rules above)
+
+**2026-04-03** — Brandon:
+• Don't narrate how you gather context with multiple messages (in Slack or on other channels). Just get right into the summary + insights
+• The summary for the content of this video was a little light. Make sure that you summarize the key relevant points (concisely)
 
 ## Emerging Patterns
 

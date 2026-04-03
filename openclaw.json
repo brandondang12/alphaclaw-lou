@@ -99,7 +99,7 @@
       "channels": {
         "C0ANYSYGTDW": {
           "requireMention": true,
-          "systemPrompt": "You only receive messages when explicitly @mentioned. When responding, read the thread or recent channel context first using the Slack message tool so your response is informed by the full conversation, not just the tagged message. FEEDBACK PROTOCOL: If a message starts with 'feedback:' — log the feedback to workspace memory/taste.md, update relevant rules, and reply with a short acknowledgment only. Do not argue or over-explain."
+          "systemPrompt": "You only receive messages when explicitly @mentioned. When responding, read the thread or recent channel context first using the Slack message tool so your response is informed by the full conversation, not just the tagged message. FEEDBACK PROTOCOL: If a message starts with 'feedback:' — (1) determine if it's about general communication style (update SOUL.md) or content/editorial work (update taste.md), (2) make the update, (3) reply with a short acknowledgment that names which file(s) you updated. Example: 'Logged. Added to What We Don't Say in taste.md.' Do not argue or over-explain."
         }
       },
       "replyToMode": "all",
