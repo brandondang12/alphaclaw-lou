@@ -212,3 +212,14 @@ People who can feel pain and narrate it at the same time:
 - Monte Thakkar (U039P56EW0L) — engineering
 - Rebecca (U08L65D1P7C) — therapist/practitioner expertise
 - Brandon Dang (U0A4DCQM4Q4) — my human
+
+## Positioning: Agentic Rosebud
+- Rosebud is building a new category: "the assistant you'd have for your inner life, if that was a thing"
+- Not an AI friend (people are allergic to that), not a chatbot, not just better memory
+- The frame that resonates: most people have an assistant for work, a doctor for their body, a therapist for their mind — but nobody has built the thing that knows your inner life across all of it, carries it forward, and shows up for you
+- This category couldn't exist before AI got to where it is now
+- "Agentic" in plain terms: two things change vs current Rosebud
+  1. Builds an actual model of you over time (not just retrieves what you said — understands patterns, connections, meaning)
+  2. Can initiate — follows up, checks in, meets you in the flow of life rather than waiting for you to open the app
+- The shorthand: "the difference between an app you use and an assistant that's actually keeping track of you"
+- Avoid: "always running," "AI friend," ChatGPT comparison (their memory is improving)
